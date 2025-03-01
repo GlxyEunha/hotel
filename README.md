@@ -20,7 +20,7 @@ Siswa berperan sebagai konsumen, siswa dapat melihat history pembayaran dan prof
 Menyiapkan dan mensetting project hotel-app (laravel 9) require (Composer v2.2.4 ,Git, MYSQL PHP > v5 (v8.1.1))
 - Buka CMD atau Aplikasi Command lainnya
 - Masuk ke Directory apa saja untuk menyiapkan folder project. Contoh (cd C:\xampp\htdocs)
-- Download / Clone Project ini dengan cara git clone https://github.com/Cakraawala/hotel-app.git atau dengan mendownload langsung file zip dan pindahkan ke directory yang telah disiapkan.
+- Download / Clone Project ini dengan cara git clone https://github.com/GlxyEunha/hotel.git atau dengan mendownload langsung file zip dan pindahkan ke directory yang telah disiapkan.
 - Setelah project berhasil di download ekstrak jika file berupa zip, lalu ketikan Composer install di CMD dan tunggu hingga selesai diunduh.
 - Buat database MYSQL dan Buka project hotel-app, Cari file dengan nama .envexample kemudian edit nama file tersebut menjadi .env dan buka file tersebut.
 - Setelah file dibuka, Ubah Database_name dan lainnya sesuai dengan database yang baru dibuat.
